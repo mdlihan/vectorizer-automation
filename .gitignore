@@ -1,0 +1,5 @@
+﻿node_modules/
+chrome_data/
+vector_images/
+assets/
+.env
